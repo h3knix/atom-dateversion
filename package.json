@@ -1,7 +1,7 @@
 {
   "name": "dateversion",
   "main": "./lib/dateversion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Creates and manages dateversion strings",
   "keywords": [
     "date",
