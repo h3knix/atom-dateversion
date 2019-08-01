@@ -1,4 +1,4 @@
-# atom-dateversion package
+# dateversion package
 
 Creates a date version string useful for cache busting or versioning something based on date.
 
