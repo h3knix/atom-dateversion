@@ -1,0 +1,20 @@
+{
+  "name": "dateversion",
+  "main": "./lib/dateversion",
+  "version": "0.1.0",
+  "description": "Creates and manages dateversion strings",
+  "keywords": [
+    "date",
+    "version",
+    "version string",
+    "date version"
+  ],
+  "repository": "https://github.com/h3knix/atom-dateversion",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
